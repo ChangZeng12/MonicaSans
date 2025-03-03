@@ -1,0 +1,5 @@
+@font-face {
+    font-family: 'MonicaSans';
+    src: url('https://cdn.jsdelivr.net/gh/ChangZeng12/MonicaSans@main/WOFF/MonicaSans-Regular.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/ChangZeng12/MonicaSans@main/WOFF/MonicaSans-Regular.woff') format('woff');
+  }
